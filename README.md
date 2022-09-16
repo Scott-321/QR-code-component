@@ -18,7 +18,7 @@ The challenge - To build out a QR code component and get it looking as close to 
 You can use any tools you like to help you complete the challenge.
 
 ### Screenshot
-[Screenshot](screenshot.png)
+[Screenshot](/screenshot.png)
 
 
 ## My process
