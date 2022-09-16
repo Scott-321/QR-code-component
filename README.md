@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -20,10 +19,6 @@ I've been learning HTML and CSS online for a few months now and I was excited to
 
 ### Screenshot
 ![](./screenshot.png)
-
-
-### Links
-- Live Site URL:(https://scott-321.github.io/QR-code-component/)
 
 
 ## My process
@@ -42,4 +37,4 @@ I am looking forward to using more of Flexbox in my projects and learning Grid. 
 
 
 ## Author
-- Frontend Mentor - [@Scott-321](https://www.frontendmentor.io/profile/Scott-321)
+- Frontend Mentor - [Scott-321](https://www.frontendmentor.io/profile/Scott-321)
