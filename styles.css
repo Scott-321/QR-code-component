@@ -1,0 +1,80 @@
+/* Mobile: 375px */
+/* Desktop: 1440px */
+
+/* Defaults */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+:root {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    /* variables */
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);  
+}
+
+
+body {
+    text-align: center;
+    margin: 0 auto;
+    /* width: 100%; */
+    max-width: 1440px;
+    min-width: 375px;
+    height: 100vh; /* Height 100% of viewport */
+    background-color: var(--Light-gray);
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers on the main axis */
+    flex-shrink: 0;
+    align-items: center; /* Centers on the cross axis */
+    height: 100%; /* Height 100% of parent */
+}
+
+
+.content {
+    width: 375px;
+    padding: 1em;
+    background-color: var(--White);
+    border-radius: 20px;
+}
+
+
+img {
+    width: 100%; /* Resize image width to be 100% of parent */
+    border-radius: 15px;
+}
+
+
+h1 {
+    font-size: 1.6rem;
+    padding: 1em 0.2em 0 0.2em;
+    color: var(--Dark-blue); 
+}
+
+
+p {
+    font-size: 1.1rem;
+    padding: 1em 1em;
+    color: var(--Grayish-blue);
+}
+
+
+.attribution { 
+    font-size: 11px;  
+    margin-top: 3em;
+}
+
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
