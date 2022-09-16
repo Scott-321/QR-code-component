@@ -42,4 +42,4 @@ I am looking forward to using more of Flexbox in my projects and learning Grid. 
 
 
 ## Author
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Scott-321)
+- Frontend Mentor - [@Scott-321](https://www.frontendmentor.io/profile/Scott-321)
